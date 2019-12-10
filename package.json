@@ -1,0 +1,14 @@
+{
+  "name": "docker-vue-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/pdsuwwz/docker-vue-server.git",
+  "author": "wisdom <pdsu.wwz@foxmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
